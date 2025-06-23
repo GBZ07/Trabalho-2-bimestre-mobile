@@ -22,3 +22,7 @@ Aplicativo simples desenvolvido em Flutter que exibe frases motivacionais aleat√
    ```bash
    git clone https://github.com/seu-usuario/frases-motivacionais
    cd frases-motivacionais
+
+link versao teste web:   https://preview.flutlab.io/gbz/trabalho-2-bimestre/
+
+link do flutblab, nao consegui pegar 
